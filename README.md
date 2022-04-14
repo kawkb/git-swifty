@@ -1,1 +1,1 @@
-# get-swifty
+# git-swifty
